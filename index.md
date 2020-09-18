@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## The Watering Hole
 
-You can use the [editor on GitHub](https://github.com/bluerhino394/bluerhino/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Blue Rhino's "Watering Hole": A place where you can stay up to date on our progress!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
