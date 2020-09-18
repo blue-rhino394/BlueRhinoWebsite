@@ -2,15 +2,15 @@
 
 Welcome to Blue Rhino's Watering Hole: A place where you can stay up to date on our team's progress as we work to reach our goals!
 
-**BoldOur Members and Titles** 
+**Our Members and Titles** 
 
-  _italic_Brijen : 
-  _italic_Graham :
-  _italic_Jack :
-  _italic_Marc :_ sdf
-  _italic_Mustafa :
-  _italic_Rebekah : 
-  _italic_Thomas :
+  _Brijen :_ 
+  _Graham :_
+  _Jack :_
+  _Marc :_ 
+  _Mustafa :_
+  _Rebekah :_ 
+  _Thomas :_
 
 ### Markdown
 
