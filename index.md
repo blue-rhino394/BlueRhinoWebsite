@@ -1,6 +1,6 @@
 ## The Watering Hole
 
-Welcome to Blue Rhino's "Watering Hole": A place where you can stay up to date on our progress!
+Welcome to Blue Rhino's "Watering Hole": A place where you can stay up to date on our team's progress as we work to reach our goals!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
