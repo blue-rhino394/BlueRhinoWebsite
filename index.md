@@ -7,10 +7,15 @@ Welcome to Blue Rhino's Watering Hole: A place where you can stay up to date on 
   _Brijen :_ 
   
   _Graham :_
+  
   _Jack :_
-  _Marc :_ 
+  
+  _Marc :_
+  
   _Mustafa :_
-  _Rebekah :_ 
+  
+  _Rebekah :_
+  
   _Thomas :_
 
 ### Markdown
