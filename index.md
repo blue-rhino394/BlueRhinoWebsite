@@ -22,6 +22,6 @@ Welcome to Blue Rhino's Watering Hole: A place where you can stay up to date on 
 
 Create a web app for eco-conscious professionals. 
 
-**Check out our Demo**
+**Our Demo**
 
 
