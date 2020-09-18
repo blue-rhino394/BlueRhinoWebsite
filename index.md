@@ -2,7 +2,7 @@
 
 Welcome to Blue Rhino's Watering Hole: A place where you can stay up to date on our team's progress as we work to reach our goals!
 
-# Our Members and Titles
+**Our Members and Titles**
 
   _Brijen :_ 
   
