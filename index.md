@@ -1,6 +1,6 @@
 ### The Watering Hole
 
-Welcome to Blue Rhino's Watering Hole: A place where you can stay up to date on our team's progress as we work to reach our goals!
+Welcome to Blue Rhino's Watering Hole: A place where you can stay up to date on our team's progress as we work to build Passport!
 
 **Our Members and Titles**
 
@@ -23,6 +23,11 @@ Welcome to Blue Rhino's Watering Hole: A place where you can stay up to date on 
 Create a web app for the eco-conscious consumer or profesional through the use of online business cards. 
 
 As people grow towards becoming all online, the amount of platforms we must keep up with has become overwhelming. Imagine the simplicity of having that all in one place, all on one card. That's what we hope to provide to today's busy professionals, students, and consumers; an all in one platform to share your information or to find it.  
+
+**Follow Along as we Build Our Website**
+
+<A HREF = "http://3.20.76.73/test/register.html">Passport</A>
+
 
 **Time Logs**
 
