@@ -26,7 +26,7 @@ As people grow towards becoming all online, the amount of platforms we must keep
 
 **Follow Along as we Build Our Website**
 
-<A HREF = "http://3.20.76.73/test/register.html">Passport</A>
+<A HREF = "https://brhino.org">Passport</A>
 
 **View our Project Demo**
 
