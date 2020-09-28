@@ -4,17 +4,17 @@ Welcome to Blue Rhino's Watering Hole: A place where you can stay up to date on 
 
 **Our Members and Titles**
 
-  _Brijen :_ Video/Media Manager and Testing Manager
+  _Brijen :_ Video/Media Manager, Requirements Manager and Testing Manager
   
   _Graham :_ Implementation Manager and Collaboration Software Manager
   
-  _Jack :_
+  _Jack :_ Planner
   
-  _Marc :_ Design Manager
+  _Marc :_ Design Manager and Creative Director
   
-  _Mustafa :_ Planner and Documentation Manager
+  _Mustafa :_ Documentation Manager
   
-  _Rebekah :_ Project Manager, Webmaster, and Requirements Manager
+  _Rebekah :_ Project Manager and Webmaster
   
   _Thomas :_ Presentation Manager
   
