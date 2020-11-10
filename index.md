@@ -38,7 +38,7 @@ As people grow towards becoming all online, the amount of platforms we must keep
 
 **Preview of our Final Demo**
 
-<A HREF = "https://www.youtube.com/watch?v=RQx5VluTltA&feature=youtu.be> Preview Final Demo</A>
+<A HREF = "https://www.youtube.com/watch?v=RQx5VluTltA&feature=youtu.be"> Preview Final Demo </A>
 
 **Official Final Demo**
 
